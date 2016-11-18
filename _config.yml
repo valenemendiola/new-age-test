@@ -3,8 +3,8 @@ title: New Age Test Page
 email:
 description: A jekyll template for landing pages, portfolio and blogging
 
-baseurl: "/new-age-test/" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
-url: "/new-age-test/" # the base hostname & protocol for your site
+baseurl: "/new-age-test" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
+url: "" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
